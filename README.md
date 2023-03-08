@@ -608,7 +608,7 @@ public ThreadPoolExecutor(int corePoolSize,
 
 # Java19新特性
 
-1. **记录模式 **（预览版）
+1. **记录模式**（预览版）
 
 使用 ***记录模式*** 增强 Java 编程语言以解构记录值，可以嵌套记录模式和类型模式，实现强大的、声明性的和可组合的数据导航和处理形式。
 
@@ -677,8 +677,6 @@ Docker的优势总结如下：
 # Hash算法
 
 # HTTP和HTTPS
-
-# 
 
 # Zookeeper
 
